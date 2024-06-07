@@ -5,3 +5,8 @@
      <img src="https://github.com/rosibeluseda/The-brick-brakers/assets/145386489/7da07f55-ff0a-4008-b723-81fa8f802d74" alt="Brick brakers">
 </p>
 
+# Contributions
+* Created map array of bricks.
+* Added functionality for power-ups.
+* Added functionality to display score.
+* Added functionality for game over.
